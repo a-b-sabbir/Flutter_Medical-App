@@ -9,6 +9,7 @@ class AppStrings {
       emailHint = "Enter your Email",
       pass = "Password",
       passHint = "Enter your password here",
+      forgetPass = "Forget Password?",
       fullName = "Full Name",
       fullNameHint = "Enter your name here",
       confirmPass = "Confirm Password",
